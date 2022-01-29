@@ -15,7 +15,16 @@ Step To Run
      {
      
     "to":"your_mail_id",
+    
+    
+    
     "body":"Hello, This mail is sent from JavaMailSender",
+    
+    
+    
     "sub":"Sucessful"
+    
+    
+    
      }
      
